@@ -1,1 +1,3 @@
 .venv
+src/wtf/__pycache__
+src/wtf.egg-info

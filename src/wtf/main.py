@@ -18,7 +18,6 @@ def main():
        print(error_msg)
 
 
-
     except KeyboardInterrupt:
         print("\nExiting...")
         sys.exit(0)
